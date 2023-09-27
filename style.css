@@ -1,0 +1,21 @@
+h1 {
+  color: saddlebrown;
+  font-family: cursive;
+}
+html {
+  background-color: burlywood;
+}
+body {
+  background-color: white;
+  color: rgb(0, 0, 0);
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  border: 2px solid saddlebrown;
+  margin: 70px auto;
+  width: 500px;
+  padding: 20px 60px;
+  border-radius: 20px;
+}
+h2 {
+  color: saddlebrown;
+  text-decoration: underline;
+}
